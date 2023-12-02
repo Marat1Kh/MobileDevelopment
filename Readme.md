@@ -20,6 +20,7 @@ MVVM:
 Скриншоты приложении:
 
 <details><summary>Screenshots</summary>
+
 ![](project_ss.jpg)
 </details>
 
