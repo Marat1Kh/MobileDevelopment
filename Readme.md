@@ -8,5 +8,6 @@
 - Dokka
 - Hilt
 
-Видео
+Видео:
+
 https://github.com/Marat1Kh/MobileDevelopment/blob/dev/intro.mp4
