@@ -7,6 +7,8 @@
 - Firebase аутентификация
 - Dokka
 - Hilt
+- Retrofit
+- 
 Архитектура проекта:
 
 ![](architecture_project.jpg)
@@ -14,6 +16,12 @@
 MVVM:
 
 ![]
+
+Скриншоты приложении:
+
+<details><summary>Screenshots</summary>
+![](project_ss.jpg)
+</details>
 
 Видео:
 
