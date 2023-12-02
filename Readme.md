@@ -7,9 +7,16 @@
 - Firebase аутентификация
 - Dokka
 - Hilt
+Архитектура проекта:
+
+![](architecture_project.jpg)
+
+MVVM:
+
+![]
 
 Видео:
 
-https://github.com/Marat1Kh/MobileDevelopment/blob/dev/intro.mp4
+![](https://github.com/Marat1Kh/MobileDevelopment/blob/dev/intro.mp4)
 
 
