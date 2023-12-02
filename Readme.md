@@ -6,5 +6,6 @@
 - Jetpack Compose
 - Firebase аутентификация
 - Dokka
-- HiltAndroid
+- Hilt
 
+Видео
