@@ -13,9 +13,7 @@
 
 ![](architecture_project.jpg)
 
-MVVM:
 
-![]
 
 Скриншоты приложении:
 
