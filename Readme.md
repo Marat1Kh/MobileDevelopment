@@ -6,9 +6,8 @@
 - Jetpack Compose
 - Firebase аутентификация
 - Dokka
-- Hilt
 - Retrofit
-- 
+
 Архитектура проекта:
 
 ![](architecture_project.jpg)
